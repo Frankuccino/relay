@@ -66,4 +66,4 @@ Actively under development. Core ingestion, delivery, and concurrent worker pool
 
 ## Author
 
-Built by [Frank](https://github.com/frankuccino) (Franyx Studios) as part of a deliberate, hands-on push into backend and distributed systems engineering with Go.
+Built by [Frank](https://github.com/frankuccino) as part of a deliberate, hands-on push into backend and distributed systems engineering with Go.
